@@ -43,3 +43,8 @@ main {
 main article {
   background-color: #fff;
 }
+
+main .img-fluid {
+  max-width: 100%;
+  height: auto;
+}
